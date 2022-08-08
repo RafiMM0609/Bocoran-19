@@ -1,0 +1,2 @@
+# Bocoran-19
+Merupakan software pemesanan pelayanan penyemprotan disinfektan dalam rangka membantu menurunkan ankga penyebaran covid-19. Dalam aplikasi ini terhubung dengan mysql local database yang digunakan untuk menyimpan data pelanggan dan data pemesanan. Aplikasi ini terbagi menjadi dua tampilan yaitu untuk admin dan pelanggan. Sofware ini sudah mempunyai sistem autentikasi jika data pelanggan atau data admin tidak terdaftar dalam data base maka pengguna tidak dapat masuk ke dalam aplikasi.
